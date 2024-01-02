@@ -13,6 +13,7 @@ int power( int a , int b )
         return ans*ans ;
     else    
         return a*ans*ans ; 
+        
 }
 
 int main()
