@@ -5,6 +5,9 @@ void reverse_k_elements( queue<int> &q , int k )
 {
     int size = q.size() ;
 
+    if( k == 0 || k > size ) 
+        return  ;
+
     stack<int> s ;
     int count = 0 ;
 
