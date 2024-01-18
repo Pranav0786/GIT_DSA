@@ -58,8 +58,7 @@ void LevelOrderTravelsal( node* root )
             if( temp->right )
                 q.push( temp->right ) ;
         }
-        
-
+    
     }
 }
 int main()
