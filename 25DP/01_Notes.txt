@@ -1,0 +1,15 @@
+Those who forget the past,
+    are condemned to repeat it.
+
+## 2 Approach
+(1) Top-Down  -> Recursion + Memoizatiomn (storing value of sub-problems)
+(2) Botton-Up -> Tabulation
+
+When Use ->
+(1) Rrcursion Approach
+(2) overlapping sub-solution
+
+Steps ->
+(1) create dp array
+(2) store the value before return
+(3) check if value is already calculated or not
