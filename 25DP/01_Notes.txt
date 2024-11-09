@@ -13,3 +13,13 @@ Steps ->
 (1) create dp array
 (2) store the value before return
 (3) check if value is already calculated or not
+
+
+
+
+// shortcuts
+(1) try to represent problem in terms of index
+(2) do all possible stuffs on that index according to proble statements
+(3) sum of all stuffs => count all ways
+    min(of all stuffs) => find min
+    max(of all stuffs) => fins max
